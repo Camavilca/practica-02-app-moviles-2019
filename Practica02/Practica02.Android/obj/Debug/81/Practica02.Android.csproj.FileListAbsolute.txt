@@ -103,4 +103,6 @@ C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\obj\Debug\
 C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02\bin\Debug\netstandard2.0\Practica02.dll
+C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\bin\Debug\Practica02.dll.mdb
 C:\Users\Alumno\source\repos\Practica02\Practica02\Practica02.Android\obj\Debug\81\linksrc\Practica02.dll.mdb
