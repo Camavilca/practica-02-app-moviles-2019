@@ -4,9 +4,7 @@
              x:Class="Practica02.View06">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <DatePicker x:Name="fecha"></DatePicker>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

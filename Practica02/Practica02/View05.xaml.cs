@@ -19,7 +19,8 @@ namespace Practica02
 
         async private void item01(object sender, EventArgs e)
         {
-            await DisplayAlert("INFORMACION", "Nombre:"+, "Ok");
+            var mm = nombre.Text;
+            await DisplayAlert("INFORMACION", "Nombre:"+ mm, "Ok");
         }
     }
 }

@@ -7,6 +7,7 @@
 
             <Label Text="Nombre"></Label>
             <Entry Placeholder="Ingrese nombre" x:Name="nombre"></Entry>
+            <Editor Placeholder="Ingrese la inscripcion" HeightRequest="200" />
             <Button Text="Alert" Image="img.png" Clicked="item01"></Button>
             
         </StackLayout>

@@ -15,6 +15,8 @@ namespace Practica02
 		public View06 ()
 		{
 			InitializeComponent ();
+            fecha.MinimumDate = new DateTime(2019, 1, 1);
+            fecha.MaximumDate = new DateTime(2019, 9, 30);
 		}
 	}
 }

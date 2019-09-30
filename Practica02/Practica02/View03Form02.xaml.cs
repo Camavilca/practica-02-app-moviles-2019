@@ -14,7 +14,17 @@ namespace Practica02
 	{
 		public View03Form02 ()
 		{
-			InitializeComponent ();
+
+            var stack = new StackLayout();
+
+            var btn = new Button();
+            btn.Text = "Atras";
+            btn.Clicked += principal;
 		}
-	}
+
+        async private void principal(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new View03());                
+        }
+    }
 }
